@@ -1,3 +1,6 @@
+<img src="https://github.com/user-attachments/assets/650503aa-bf53-4669-a887-28979af525f6" alt="Ícone do App" width="250" /> <img src="https://github.com/user-attachments/assets/c6c5996b-e4d0-4fde-9832-9561d2544b79" alt="Tela Principal" width="250" /> <img src="https://github.com/user-attachments/assets/7c19dbd2-c5d2-4f3a-8784-d26aa12e8a95" alt="Modal de Exclusão" width="250" />
+
+
 # NutriTrack 🥗
 
 A nutrition dashboard screen built as a technical challenge for a Junior Developer position. The goal was to replicate a mockup using React Native CLI with TypeScript, adding interactions and a clean architecture.
